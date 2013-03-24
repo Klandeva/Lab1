@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="horoskop">
+        <item>Овен</item>
+        <item>Бик</item>
+        <item>Близнаци</item>
+        <item>Рак</item>
+        <item>Лав</item>
+        <item>Девица</item>
+        <item>Вага</item>
+        <item>Шкорпија</item>
+        <item>Стрелец</item>
+        <item>Јарец</item>
+        <item>Водолија</item>
+        <item>Риби</item>
+        
+    </string-array>
+    
+</resources>
